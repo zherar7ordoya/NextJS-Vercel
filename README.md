@@ -1,6 +1,4 @@
-# [To be continued...](https://nextjs.org/learn/basics/assets-metadata-css)
-
-
+# [To be continued...](https://nextjs.org/learn/basics/dynamic-routes)
 
 …or push an existing repository from the command line
 
